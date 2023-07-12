@@ -1,0 +1,18 @@
+.vj{
+  border:1px solid lightgrey
+}
+img{
+  width:100%
+}
+.futbol{
+  font-size:20px;
+  padding:6px 22px;
+  border-radius:10px;
+  margin-bottom:15px
+}
+i{
+  float:right;
+}
+h5 span{
+  color:orange
+}
